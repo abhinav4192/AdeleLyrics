@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Adele Lyrics</string>
+    <string name="artist_value">Adele</string>
+    <string name="banner_ad_id">ca-app-pub-7750967006737997/4352280667</string>
+    <string name="interstitial_ad_id">ca-app-pub-7750967006737997/4631482262</string>
+    <string name="data_script_path">http://adelelyrics.esy.es/getData.php</string>
+    <string name="enter_valid_text">Please enter a valid text.</string>
+    <string name="db_user_update_failed">"Update Failed. Please try again later."</string>
+    <string name="db_update_wait">Updating lyrics database. This might take long time. Please be patient.</string>
+    <string name="db_update_failed">Fetching lyrics from server failed. There might be a problem with your internet connection or server might be down. Please try again.</string>
+    <string name="no_new_lyrics">No new lyrics found.</string>
+    <string name="new_lyrics_found">New Lyrics added.</string>
+    <string name="mail_address">fightingpitstudios+RequestLyrics@gmail.com</string>
+    <string name="nothing_found">Nothing found !</string>
+    <string name="json_action_code">ac</string>
+    <string name="json_action_list">li</string>
+    <string name="json_action_see">si</string>
+    <string name="json_artist_name">an</string>
+    <string name="json_success">success</string>
+    <string name="json_album_id">aid</string>
+    <string name="json_album_name">aln</string>
+    <string name="json_album_year">aly</string>
+    <string name="json_song_id">sid</string>
+    <string name="json_song_name">son</string>
+    <string name="json_song_lyrics">sol</string>
+    <string name="json_song_fetch_list">sfl</string>
+    <string name="json_error_code">erc</string>
+    <string name="json_albums">albums</string>
+    <string name="json_songs">songs</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_update_lyrics">Update Lyrics</string>
+    <string name="menu_request_lyrics">Request Lyrics</string>
+    <string name="menu_rate_app">Rate Application</string>
+</resources>

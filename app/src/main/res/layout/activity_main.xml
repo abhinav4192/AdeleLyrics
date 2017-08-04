@@ -14,7 +14,7 @@
         android:layout_alignParentBottom="true"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        ads:adSize="LARGE_BANNER"
+        ads:adSize="BANNER"
         ads:adUnitId="@string/banner_ad_id">
     </com.google.android.gms.ads.AdView>
 
